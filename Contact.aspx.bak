@@ -1,0 +1,28 @@
+﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="POC_Contact1.Contact" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+
+
+    <style>
+        div.columnContainer {
+            padding: 1px
+        }
+
+        select.lp-form-fieldInput {
+            width: 69%
+        }
+    </style>
+   <br />
+       <br />
+       <br />
+       <br />
+       <br />
+       <br />
+       <br />
+
+<!-- <div data-form-block-id="aded2e1b-49cd-ed11-b597-00224899e947"></div> <script src="https://mktdplp102cdn.azureedge.net/public/latest/js/form-loader.js?v=1.84.2007"></script> <div id="dm8JAC0CoYGJHXbLDIhB7059V5I24lngpArYs99smjjk"></div><script src="https://mktdplp102cdn.azureedge.net/public/latest/js/ws-tracking.js?v=1.84.2007"></script><div class="d365-mkt-config" style="display:none" data-website-id="m8JAC0CoYGJHXbLDIhB7059V5I24lngpArYs99smjjk" data-hostname="8c7d3cc05cc84229a027d695778cc0d0.svc.dynamics.com"></div>-->
+<iframe frameBorder="0" id=e8f8719b-8b86-4fb0-9676-5ebbe84a0560></iframe><script>var sandboxSrc = "https://8c2a56b09c9c455b92c18d47fd2020a2.svc.dynamics.com/t/formsandbox/1gNezI2OXGil4lS8_-Pl8CG8YtELamUkCv1BGbV9TNM/4a9fe232-9948-ee11-be6d-0022489fd0eb?ad=" + encodeURIComponent(document.location.toString()); document.getElementById('e8f8719b-8b86-4fb0-9676-5ebbe84a0560').setAttribute('src', sandboxSrc); </script>
+
+
+</asp:Content>
+
